@@ -19,7 +19,7 @@ are linked using pointers.
 
 A python class created according to decorator methods. The main goals
 is training create python classes, use decorators practices, realize fundamentals
-calculus and deliver a scholar exercise.
+calculus and deliver a faculty exercise.
 
 [Click here to see official python docs about classes](https://docs.python.org/3/tutorial/classes.html)
 
