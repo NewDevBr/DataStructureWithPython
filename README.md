@@ -5,6 +5,7 @@
 ### Index
 1. [Linked list folder](#LinkedListFolder)
 2. [Student folder](#StudentFolder)
+3. [Student folder](#StackFolder)
 
 
 ### Linked List Folder <a name="LinkedListFolder">
@@ -22,5 +23,16 @@ is training create python classes, use decorators practices, realize fundamental
 calculus and deliver a faculty exercise.
 
 [Click here to see official python docs about classes](https://docs.python.org/3/tutorial/classes.html)
+
+
+### Stack Folder <a name="StackFolder">
+
+The stack is one of the most used data structures in many applications. This structure follows the LIFO (Last-in,
+First-out) rule. In the stack folder you can see an implementation example making use of linked list and python.
+Basically the idea is to build a task stack in order to use the UUID as the fake ID of task. Time is also added to
+the task deadline using tools of DateTime class.
+
+[Click here to see more info about stack](http://www.ijirt.org/master/publishedpaper/IJIRT101357_PAPER.pdf)
+
 
 #### That repository will be incremented according author knowledge evolution 
