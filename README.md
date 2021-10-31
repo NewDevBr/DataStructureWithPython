@@ -40,5 +40,5 @@ the task deadline using tools of DateTime class.
 
 Queue follows the FIFO (First-in, First-out) rule. At this repository, the intention was implement a informatized system that atomatize the creation of a bank queue. When customer enter a agencie, should use a self-service terminal to generate one attendance id. The advanteges are: this queue is according with prioritized attendance, defined by law 10.048/00. Exists more availability from attendance team, allowing keep focus of clients necessities that needs talk about some product, service or obtain some support. Reduced time cousts.
 
-[Click here to see mor info about Queue](https://www.geeksforgeeks.org/queue-in-python/)
+[Click here to see more info about Queue](https://www.geeksforgeeks.org/queue-in-python/)
 #### That repository will be incremented according author knowledge evolution
