@@ -5,7 +5,8 @@
 ### Index
 1. [Linked list folder](#LinkedListFolder)
 2. [Student folder](#StudentFolder)
-3. [Student folder](#StackFolder)
+3. [Stack folder](#StackFolder)
+4. [Bank Queue folder](#BankQueue)
 
 
 ### Linked List Folder <a name="LinkedListFolder">
@@ -35,4 +36,9 @@ the task deadline using tools of DateTime class.
 [Click here to see more info about stack](http://www.ijirt.org/master/publishedpaper/IJIRT101357_PAPER.pdf)
 
 
-#### That repository will be incremented according author knowledge evolution 
+### Bank Queue Folder <a name="BankQueue">
+
+Queue follows the FIFO (First-in, First-out) rule. At this repository, the intention was implement a informatized system that atomatize the creation of a bank queue. When customer enter a agencie, should use a self-service terminal to generate one attendance id. The advanteges are: this queue is according with prioritized attendance, defined by law 10.048/00. Exists more availability from attendance team, allowing keep focus of clients necessities that needs talk about some product, service or obtain some support. Reduced time cousts.
+
+[Click here to see mor info about Queue](https://www.geeksforgeeks.org/queue-in-python/)
+#### That repository will be incremented according author knowledge evolution
